@@ -60,7 +60,6 @@ public class ArticleActivity extends AppCompatActivity {
     private void observeViewModel() {
         viewModel.articleLiveData.observe(this, articles -> {
             rvNewsArticleAdapter.setData(articles);
-            rvNewsArticleAdapter.notifyDataSetChanged();
         });
     }
 }
