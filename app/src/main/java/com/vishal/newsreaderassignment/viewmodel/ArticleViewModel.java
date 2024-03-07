@@ -6,7 +6,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.vishal.newsreaderassignment.compartor.ArticleDateComparator;
+import com.vishal.newsreaderassignment.comparator.ArticleDateComparator;
 import com.vishal.newsreaderassignment.repository.ArticleRepository;
 import com.vishal.newsreaderassignment.model.Article;
 

@@ -3,7 +3,7 @@ package com.vishal.newsreaderassignment.repository;
 import android.content.Context;
 
 import com.google.gson.Gson;
-import com.vishal.newsreaderassignment.compartor.ArticleTitleCountComparator;
+import com.vishal.newsreaderassignment.comparator.ArticleTitleCountComparator;
 import com.vishal.newsreaderassignment.model.Article;
 import com.vishal.newsreaderassignment.model.News;
 

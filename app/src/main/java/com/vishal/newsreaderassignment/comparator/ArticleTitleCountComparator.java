@@ -1,4 +1,4 @@
-package com.vishal.newsreaderassignment.compartor;
+package com.vishal.newsreaderassignment.comparator;
 
 import com.vishal.newsreaderassignment.model.Article;
 
